@@ -1,0 +1,30 @@
+.div1 {
+    font-family: "Din Condensed";
+    font-size: 12em; 
+    padding-top: .25em;
+    color: #f4c0d7;
+}
+
+.div2 {
+     font-family: "Din Condensed";
+    font-size: 12em; 
+    color: #f4c0d7;
+}
+
+.div3 {
+     font-family: "Din Condensed";
+    font-size: 12em; 
+    color: #f4c0d7;
+}
+
+.div4 {
+    font-family: "Din Condensed"; 
+    font-size: 12em; 
+    color: #f4c0d7;
+}
+
+body {
+    text-align: center;
+    line-height: 12em;
+    background-color: black;
+}
